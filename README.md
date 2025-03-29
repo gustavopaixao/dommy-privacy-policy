@@ -1,6 +1,18 @@
 # Privacy Policy for Dommy - Domino Leaderboard Manager
 
-Last updated: [Current Date]
+Last updated: March 29th, 2024
+
+<div align="center">
+
+<div style="font-size: 24px;">
+
+[🇺🇸](README.md) [🇫🇷](fr.md) [🇧🇷](pt.md) [🇪🇸](es.md) [🇩🇪](de.md) [🇨🇳](zh.md)
+
+</div>
+
+</div>
+
+---
 
 ## Introduction
 
@@ -91,4 +103,4 @@ If you have any questions about this Privacy Policy or our data practices, pleas
 
 ---
 
-This Privacy Policy was last updated on [Current Date] and is effective as of that date.
+This Privacy Policy was last updated on March 29th, 2024 and is effective as of that date.
